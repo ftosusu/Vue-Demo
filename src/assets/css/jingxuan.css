@@ -1,0 +1,166 @@
+#jingxuan .swiper-pagination{
+    position: relative;
+    /* bottom: 0; */
+}
+#jingxuan .swiper-container img{
+    width: 100%;
+}
+#jingxuan .swiper-container{
+    --swiper-pagination-color: #ffffff;/* 两种都可以 */
+}
+#jingxuan .tabs .active{
+    font-size: 1.5rem;
+    color: black;
+    font-weight: bold;
+}
+#jingxuan .tabs{
+    display: block;
+    overflow: auto;
+    padding: 0;
+}
+#jingxuan .tabs li{
+    line-height: 1.5rem;
+    padding: 1rem 1rem;
+    font-size: 1.3rem;
+    float: left;
+    color: #c4c4c4;
+}
+#jingxuan .tabs span{
+    float: right;
+    display: inline-block;
+    padding: 0.7rem ;
+    font-size: 0.8rem;
+    line-height: 1.8rem;
+    color: #c4c4c4;
+}
+#jingxuan .content .card{
+            display: none;
+            float: left;
+            width: 100%;
+            height:35rem ;
+}
+#jingxuan .content .video{
+    width: 100%;
+    height: 18rem;
+    /* width: ; */
+}
+#jingxuan .content .video .imgsrc{
+    width: 41.4rem;
+    height: 22.395rem;
+}
+#jingxuan .movies{
+    width: 100%;
+    overflow: auto;
+    position: relative;
+    top: -7rem;
+}
+#jingxuan #jx_content2 .movies{
+    width: 100%;
+    overflow: auto;
+    position: relative;
+    top: 0;
+}
+#jingxuan #jx_content2 .card {
+    display: none;
+    float: left;
+    width: 100%;
+    height: 18rem;
+}
+#jingxuan .movies .movies_ul{
+    width: 101rem;
+    overflow: hidden;
+    padding: 0rem 0 0 0;
+    margin: 0 0 0 0.6rem;
+}
+#jingxuan .movies .movies_ul li{
+    float: left;
+    margin-right: 0.4rem;
+    position: relative;
+}
+#jingxuan .movies .movies_ul li img{
+    width: 9rem;
+    border: 3px solid transparent;
+    border-radius: 0.4rem;
+}
+#jingxuan .movies .movies_ul li span{
+    display: block;
+    font-size: 1.3rem;
+
+}
+#jingxuan .movies .movies_ul li .score{
+    position: absolute;
+    top: 10.4rem;
+    display: inline;
+    left: 0.2rem;
+    color: #ffffff;
+}
+#jingxuan .movies .movies_ul li .datasrc{
+    border: 3px solid transparent;
+    border-radius: 0.4rem;
+}
+#jingxuan .movies .movies_ul li .active{
+    border: 3px solid #ffffff;
+    
+}
+#jingxuan .movies .movies_ul li .ask{
+    font-size: 1rem;
+    color: #c4c4c4;
+        width: 9rem;
+    max-width: 10rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+#jingxuan .movies .movies_ul li .name{
+        width: 9rem;
+    max-width: 10rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+#jingxuan .movies .movies_ul li .button{
+    display: block;
+    height: 2rem;
+    width: 5rem;
+    text-align: center;
+    line-height: 2rem;
+    border-radius: 2rem;
+    border: 0;
+    color: #ffffff;
+    background-color: #ee0c6a;
+}
+#jingxuan .movies .movies_ul li .button_1{
+    display: block;
+    height: 2rem;
+    width: 5rem;
+    text-align: center;
+    line-height: 2rem;
+    border-radius: 2rem;
+    border: 0;
+    color: #ffffff;
+    background-color: #076df3;
+}
+#jingxuan{
+    margin-bottom: 5rem;
+}
+.clear{
+    clear: both;
+}
+#jingxuan .list{
+    margin-top: 3rem;
+    margin-left: 1rem;
+}
+#jingxuan .tabs_2 .rili{
+    float:right;
+}
+#jingxuan .tabs_2 .big{
+    font-size: 1.7rem;
+     font-weight: bold;
+}
+#jingxuan .content{
+    overflow: auto;
+}
+
+#jingxuan .movies::-webkit-scrollbar{
+    height: 0;
+}

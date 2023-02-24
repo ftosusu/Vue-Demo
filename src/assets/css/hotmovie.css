@@ -1,0 +1,65 @@
+#hotmovie ul{
+    padding-left: 1rem;
+    padding-bottom: 5rem;
+}
+#hotmovie ul li{
+    border-bottom: 1px solid #cacaca;
+}
+#hotmovie ul li .small{
+    width: 8rem;
+
+}
+#hotmovie ul li .text{
+    display: inline-block;
+}
+#hotmovie ul li .text .name{
+    font-weight: bold;
+    font-size: 1.6rem;
+    
+}
+#hotmovie ul li .text .screen1{
+    display: inline-block;
+    width: 2rem;
+    margin: 0;
+    border-radius:0.3rem 0 0 0.3rem;
+    text-align: center;
+    background-color: #999999;
+    color: #ffffff;
+}
+#hotmovie ul li .text .screen2{
+    display: inline-block;
+    margin: 0;
+    border: 1px solid #999999;
+}
+#hotmovie ul li .text .score2{
+    color: #fc8906;
+    font-weight: bold;
+    margin-left: 0.2rem;
+    font-size: 1.3rem;
+}
+#hotmovie ul li .text .score{
+    display: block;
+    margin: 0.8rem 0;
+}
+#hotmovie ul li .text .actor,#hotmovie ul li .text .direct{
+    display: block;
+    margin-bottom: 0.8rem;
+}
+#hotmovie ul li .text .ask{
+    display: block;
+    margin-bottom: 1rem;
+}
+#hotmovie ul li .sell{
+    float: right;
+    margin-top:4rem;
+    margin-right:2rem;
+    width: 4.5rem;
+    height: 2.5rem;
+    border-radius: 0.8rem;
+    color: #ffffff;
+    background-color: #d60729;
+    outline: none;
+    border:0;
+    line-height: 2.5rem;
+    text-align: center;
+}

@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "name":"高雅艺术舞台影像展",
+        "ask":"10月17日11月17日",
+        "score":"淘票票评分9.2",
+        "screen":"2D IMAX",
+        "dataimg":"/src/assets/img/movie1.png",
+        "small":"/src/assets/img/filmfestival1.png",
+        "sell":"预售"
+    },
+    {
+        "id":2,
+        "name":"2020中国电影博物馆意大利电影展",
+        "ask":"10月14日10月18日",
+        "score":"淘票票评分9.2",
+        "screen":"2D IMAX",
+        "dataimg":"/src/assets/img/movie1.png",
+        "small":"/src/assets/img/filmfestival2.png",
+        "sell":"预售"
+    },
+    {
+        "id":3,
+        "name":"中国长春电影节",
+        "ask":"10月17日11月17日",
+        "score":"淘票票评分9.2",
+        "screen":"2D IMAX",
+        "dataimg":"/src/assets/img/movie1.png",
+        "small":"/src/assets/img/filmfestival3.png",
+        "sell":"预售"
+    },
+    {
+        "id":4,
+        "name":"高雅艺术舞台影像展",
+        "ask":"10月17日11月17日",
+        "score":"淘票票评分9.2",
+        "screen":"2D IMAX",
+        "dataimg":"/src/assets/img/movie1.png",
+        "small":"/src/assets/img/filmfestival4.png",
+        "sell":"预售"
+    },
+    {
+        "id":5,
+        "name":"高雅艺术舞台影像展",
+        "ask":"10月17日11月17日",
+        "score":"淘票票评分9.2",
+        "screen":"2D IMAX",
+        "dataimg":"/src/assets/img/movie1.png",
+        "small":"/src/assets/img/filmfestival5.png",
+        "sell":"预售"
+    },
+    {
+        "id":6,
+        "name":"高雅艺术舞台影像展",
+        "ask":"10月17日11月17日",
+        "score":"淘票票评分9.2",
+        "screen":"2D IMAX",
+        "dataimg":"/src/assets/img/movie1.png",
+        "small":"/src/assets/img/filmfestival6.png",
+        "sell":"预售"
+    },
+    {
+        "id":7,
+        "name":"高雅艺术舞台影像展",
+        "ask":"10月17日11月17日",
+        "score":"淘票票评分9.2",
+        "screen":"2D IMAX",
+        "dataimg":"/src/assets/img/movie1.png",
+        "small":"/src/assets/img/filmfestival7.png",
+        "sell":"预售"
+    },
+    {
+        "id":8,
+        "name":"高雅艺术舞台影像展",
+        "ask":"10月17日11月17日",
+        "score":"淘票票评分9.2",
+        "screen":"2D IMAX",
+        "dataimg":"/src/assets/img/movie1.png",
+        "small":"/src/assets/img/filmfestival8.png",
+        "sell":"预售"
+    }
+    
+]
